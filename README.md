@@ -104,4 +104,7 @@ If you'd like to contribute to this repository:
 5. Submit a pull request to the main repository.
 
 Please ensure that your branch follows the naming convention: `servername-VMname-servicename`.
-\n\n**THIS REPOSITORY IS ENCRYPTED. IF YOU’RE HERE, YOU’RE EITHER VERY BRAVE OR VERY LOST. EITHER WAY, GOOD LUCK!**
+
+
+
+**THIS REPOSITORY IS ENCRYPTED. IF YOU’RE HERE, YOU’RE EITHER VERY BRAVE OR VERY LOST. EITHER WAY, GOOD LUCK!**
